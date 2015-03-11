@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Test {
 
 	public static void main(String[] args) {
-		// ODO Auto-generated method stubj
+		// ODO Auto-ed method stubj
 		
 		ArrayList <Integer> array= new ArrayList<Integer>();
 		
